@@ -10,13 +10,13 @@ h2{
 
     font-size: 25px;
     font-weight: 700;
-    background-color: #ffa195;
+    background-color: #ffa196;
 }
 h3{
     
     font-size: 20px;
     font-weight: 600;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 .mango{
